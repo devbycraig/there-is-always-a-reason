@@ -1,0 +1,632 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "89cfce5a71034c35a5b61c7cb1ebef29"
+    },
+    {
+        "path": "Book Mockup Portrait V2 Compressed.jpg",
+        "type": "file",
+        "md5": "a3e8ee728a2db1fa29000d8b82c62595"
+    },
+    {
+        "path": "TIAaR Checklist 8x10 web.jpg",
+        "type": "file",
+        "md5": "809f2833a5df213fdf4f4b583bc323ab"
+    },
+    {
+        "path": "TIAaR Checklist A4 web.jpg",
+        "type": "file",
+        "md5": "3c2d436fb089289f78b3920b128adb43"
+    },
+    {
+        "path": "TOC_1.png",
+        "type": "file",
+        "md5": "50092fd03dbb82d898fcd8bae54b2142"
+    },
+    {
+        "path": "TOC_2.png",
+        "type": "file",
+        "md5": "7d70e978651d1963083b6721429f30d5"
+    },
+    {
+        "path": "TOC_3.png",
+        "type": "file",
+        "md5": "19c6f6b2d713725b15ba73dedc351568"
+    },
+    {
+        "path": "TOC_4.png",
+        "type": "file",
+        "md5": "e5011cff96bbd61e3da135cdba449e28"
+    },
+    {
+        "path": "TOC_5.png",
+        "type": "file",
+        "md5": "bba7040ddf150c26bba3f904e71cb92d"
+    },
+    {
+        "path": "about-me.html",
+        "type": "file",
+        "md5": "c7f80cb9cd0179de695df97f77b81a9b"
+    },
+    {
+        "path": "after-daycare-meltdowns.html",
+        "type": "file",
+        "md5": "019215bc48de63bf96eedba3fd13ab51"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "121f9229b70ae53481164a337d2b1fae"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "7de0d42d8f63e45b4b79bb466429fb15"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts/publicsans",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/dynamic/fonts/publicsans/publicsans-italic.woff2",
+        "type": "file",
+        "md5": "ff6677d277c18333083616765ece3e4f"
+    },
+    {
+        "path": "/assets/dynamic/fonts/publicsans/publicsans.woff2",
+        "type": "file",
+        "md5": "ce5051af671530872721c0304dcc062e"
+    },
+    {
+        "path": "assets/dynamic/fonts/raleway",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/dynamic/fonts/raleway/raleway-italic.woff2",
+        "type": "file",
+        "md5": "d138e8ecce741dcc9bd9e9f9b4e0b5da"
+    },
+    {
+        "path": "/assets/dynamic/fonts/raleway/raleway.woff2",
+        "type": "file",
+        "md5": "5f15e7dfc96e0d0f9de930bc55ceb98e"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "ffcbea6c02c8178d10092962b235a5b0"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "f0c119fe4ab4e9bba79dea32d15e32df"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/maria-vernon",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/maria-vernon/index.html",
+        "type": "file",
+        "md5": "fa1df047ba659d7de0a91c66290094f8"
+    },
+    {
+        "path": "blog.html",
+        "type": "file",
+        "md5": "b48179955721be9779b12199bff649c6"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "5d97d83e76a94c1632f7c766c57a1320"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "98b6735bccab60c5ec0fb30e52769a17"
+    },
+    {
+        "path": "free-resources.html",
+        "type": "file",
+        "md5": "792cfd94df7fc6f301292f1f44d2d5da"
+    },
+    {
+        "path": "hitting.html",
+        "type": "file",
+        "md5": "1dd616c06b7c0ce95516691257007b58"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "09ce19cfb036be4aafe34eab93d9b2ed"
+    },
+    {
+        "path": "keep-in-touch.html",
+        "type": "file",
+        "md5": "31f3f6e7e85fb61b7a4ddba525545689"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/files",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/files/TIAaR Checklist 8x10 web.jpg",
+        "type": "file",
+        "md5": "809f2833a5df213fdf4f4b583bc323ab"
+    },
+    {
+        "path": "/media/files/TIAaR Checklist A4 web.jpg",
+        "type": "file",
+        "md5": "3c2d436fb089289f78b3920b128adb43"
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/TIAaR-Mockup-Landscape-1920px.jpg",
+        "type": "file",
+        "md5": "771fc9161da4ce8526c8259b1d207ee3"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/TIAaR-Mockup-Landscape-1920px-2xl.jpg",
+        "type": "file",
+        "md5": "112ddde7075069310ec5571436028bad"
+    },
+    {
+        "path": "/media/posts/1/responsive/TIAaR-Mockup-Landscape-1920px-lg.jpg",
+        "type": "file",
+        "md5": "7b1233b12f44982f168e3411c5a1584f"
+    },
+    {
+        "path": "/media/posts/1/responsive/TIAaR-Mockup-Landscape-1920px-md.jpg",
+        "type": "file",
+        "md5": "4ab1fac3220055d885a8acce9533358b"
+    },
+    {
+        "path": "/media/posts/1/responsive/TIAaR-Mockup-Landscape-1920px-sm.jpg",
+        "type": "file",
+        "md5": "3cda89f4cfc48d5a3ba5a67f9642f8b7"
+    },
+    {
+        "path": "/media/posts/1/responsive/TIAaR-Mockup-Landscape-1920px-xl.jpg",
+        "type": "file",
+        "md5": "802b4fda2eb9615977060feed793dcb7"
+    },
+    {
+        "path": "/media/posts/1/responsive/TIAaR-Mockup-Landscape-1920px-xs.jpg",
+        "type": "file",
+        "md5": "378482afcd91af6932923b4e99a83b78"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/_Intro-300.png",
+        "type": "file",
+        "md5": "819ef38e1e403d418623d2e41892b9c2"
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/_Intro-300-2xl.png",
+        "type": "file",
+        "md5": "7e029bd0906d5b6954e37c2605b22c3f"
+    },
+    {
+        "path": "/media/posts/2/responsive/_Intro-300-lg.png",
+        "type": "file",
+        "md5": "7e029bd0906d5b6954e37c2605b22c3f"
+    },
+    {
+        "path": "/media/posts/2/responsive/_Intro-300-md.png",
+        "type": "file",
+        "md5": "7e029bd0906d5b6954e37c2605b22c3f"
+    },
+    {
+        "path": "/media/posts/2/responsive/_Intro-300-sm.png",
+        "type": "file",
+        "md5": "7e029bd0906d5b6954e37c2605b22c3f"
+    },
+    {
+        "path": "/media/posts/2/responsive/_Intro-300-xl.png",
+        "type": "file",
+        "md5": "7e029bd0906d5b6954e37c2605b22c3f"
+    },
+    {
+        "path": "/media/posts/2/responsive/_Intro-300-xs.png",
+        "type": "file",
+        "md5": "57fd941c6393235b165183dfe55ff29a"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/After-Daycare-Meltdowns-300.png",
+        "type": "file",
+        "md5": "5d455ff655364a04a93024d4e64d22c0"
+    },
+    {
+        "path": "media/posts/3/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/responsive/After-Daycare-Meltdowns-300-2xl.png",
+        "type": "file",
+        "md5": "5a751a5e4fec6b28ea0d18b59515597e"
+    },
+    {
+        "path": "/media/posts/3/responsive/After-Daycare-Meltdowns-300-lg.png",
+        "type": "file",
+        "md5": "0abd76f126642f8749c5c99a64b1bf24"
+    },
+    {
+        "path": "/media/posts/3/responsive/After-Daycare-Meltdowns-300-md.png",
+        "type": "file",
+        "md5": "53f238b136fb9508158404be635fef1e"
+    },
+    {
+        "path": "/media/posts/3/responsive/After-Daycare-Meltdowns-300-sm.png",
+        "type": "file",
+        "md5": "b3641a223571e75cf6ff4471c4b56816"
+    },
+    {
+        "path": "/media/posts/3/responsive/After-Daycare-Meltdowns-300-xl.png",
+        "type": "file",
+        "md5": "5a751a5e4fec6b28ea0d18b59515597e"
+    },
+    {
+        "path": "/media/posts/3/responsive/After-Daycare-Meltdowns-300-xs.png",
+        "type": "file",
+        "md5": "f2a78b32fdd9d5c7b43ce5576f0abffa"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/Anger-300.png",
+        "type": "file",
+        "md5": "06b34e0ea240001790a1897bd90aa6b0"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/Anger-300-2xl.png",
+        "type": "file",
+        "md5": "a42040805fa181ac398f5843df8f454b"
+    },
+    {
+        "path": "/media/posts/4/responsive/Anger-300-lg.png",
+        "type": "file",
+        "md5": "b0fb74de3518d4fd61702530342334b8"
+    },
+    {
+        "path": "/media/posts/4/responsive/Anger-300-md.png",
+        "type": "file",
+        "md5": "5c7d1f0b87362ac17249d0ea64af552e"
+    },
+    {
+        "path": "/media/posts/4/responsive/Anger-300-sm.png",
+        "type": "file",
+        "md5": "ae540de32597a60e6d8ba5e3af0c25a0"
+    },
+    {
+        "path": "/media/posts/4/responsive/Anger-300-xl.png",
+        "type": "file",
+        "md5": "a42040805fa181ac398f5843df8f454b"
+    },
+    {
+        "path": "/media/posts/4/responsive/Anger-300-xs.png",
+        "type": "file",
+        "md5": "3ee5757a263daece807a1f3669e0ff81"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/TIAaR-Checklist-8x10-web.jpg",
+        "type": "file",
+        "md5": "809f2833a5df213fdf4f4b583bc323ab"
+    },
+    {
+        "path": "/media/posts/5/TIAaR-Checklist-A4-web-2.jpg",
+        "type": "file",
+        "md5": "3c2d436fb089289f78b3920b128adb43"
+    },
+    {
+        "path": "media/posts/5/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/gallery/TIAaR-Checklist-8x10-web.jpg",
+        "type": "file",
+        "md5": "809f2833a5df213fdf4f4b583bc323ab"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/TIAaR-Checklist-8x10-web-2xl.jpg",
+        "type": "file",
+        "md5": "1e977fda690809e2283f9402ce5f088f"
+    },
+    {
+        "path": "/media/posts/5/responsive/TIAaR-Checklist-8x10-web-lg.jpg",
+        "type": "file",
+        "md5": "427452ed018692bcdf82d2acaf861961"
+    },
+    {
+        "path": "/media/posts/5/responsive/TIAaR-Checklist-8x10-web-md.jpg",
+        "type": "file",
+        "md5": "4ad804d59c72d8e25721bbefacd96d9c"
+    },
+    {
+        "path": "/media/posts/5/responsive/TIAaR-Checklist-8x10-web-sm.jpg",
+        "type": "file",
+        "md5": "58a87c5211a8029ac3b129269d794eb8"
+    },
+    {
+        "path": "/media/posts/5/responsive/TIAaR-Checklist-8x10-web-xl.jpg",
+        "type": "file",
+        "md5": "e60e57d7ac65c4b49763a3f8b13116bd"
+    },
+    {
+        "path": "/media/posts/5/responsive/TIAaR-Checklist-8x10-web-xs.jpg",
+        "type": "file",
+        "md5": "ccf31753451730a659c42c36956158ef"
+    },
+    {
+        "path": "/media/posts/5/responsive/TIAaR-Checklist-A4-web-2-2xl.jpg",
+        "type": "file",
+        "md5": "b5cab06c210717b7f7f45dcb5e855d1a"
+    },
+    {
+        "path": "/media/posts/5/responsive/TIAaR-Checklist-A4-web-2-lg.jpg",
+        "type": "file",
+        "md5": "94d8dfb774bb43c746f250670d856abe"
+    },
+    {
+        "path": "/media/posts/5/responsive/TIAaR-Checklist-A4-web-2-md.jpg",
+        "type": "file",
+        "md5": "5661a8bf616539bb48d3201e23d97e4b"
+    },
+    {
+        "path": "/media/posts/5/responsive/TIAaR-Checklist-A4-web-2-sm.jpg",
+        "type": "file",
+        "md5": "70fc1f9d8c1fe16bcfc1493446053d61"
+    },
+    {
+        "path": "/media/posts/5/responsive/TIAaR-Checklist-A4-web-2-xl.jpg",
+        "type": "file",
+        "md5": "6f2da03b21cb7a5f43816a6c7209b475"
+    },
+    {
+        "path": "/media/posts/5/responsive/TIAaR-Checklist-A4-web-2-xs.jpg",
+        "type": "file",
+        "md5": "49f05fc2dba52ae9fd949427f84dd0d6"
+    },
+    {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/Hitting-1000px.jpg",
+        "type": "file",
+        "md5": "75ec5a34516c4a18b63d2e33f65852fe"
+    },
+    {
+        "path": "media/posts/9/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/Hitting-1000px-2xl.jpg",
+        "type": "file",
+        "md5": "38e6c48a453fd746941bf5921c1a8194"
+    },
+    {
+        "path": "/media/posts/9/responsive/Hitting-1000px-lg.jpg",
+        "type": "file",
+        "md5": "38e6c48a453fd746941bf5921c1a8194"
+    },
+    {
+        "path": "/media/posts/9/responsive/Hitting-1000px-md.jpg",
+        "type": "file",
+        "md5": "38e6c48a453fd746941bf5921c1a8194"
+    },
+    {
+        "path": "/media/posts/9/responsive/Hitting-1000px-sm.jpg",
+        "type": "file",
+        "md5": "4542d478d51330aa451d1a6403cfdfbe"
+    },
+    {
+        "path": "/media/posts/9/responsive/Hitting-1000px-xl.jpg",
+        "type": "file",
+        "md5": "38e6c48a453fd746941bf5921c1a8194"
+    },
+    {
+        "path": "/media/posts/9/responsive/Hitting-1000px-xs.jpg",
+        "type": "file",
+        "md5": "519cd51cdce2db318f895db30355e2b3"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/Logo.jpg",
+        "type": "file",
+        "md5": "4a743e4f8fd3a00f81563b12f0216b3c"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Logo-2xl.jpg",
+        "type": "file",
+        "md5": "84e8857a4b176549a6a2397f77f76f8d"
+    },
+    {
+        "path": "/media/website/responsive/Logo-lg.jpg",
+        "type": "file",
+        "md5": "84e8857a4b176549a6a2397f77f76f8d"
+    },
+    {
+        "path": "/media/website/responsive/Logo-md.jpg",
+        "type": "file",
+        "md5": "84e8857a4b176549a6a2397f77f76f8d"
+    },
+    {
+        "path": "/media/website/responsive/Logo-sm.jpg",
+        "type": "file",
+        "md5": "84e8857a4b176549a6a2397f77f76f8d"
+    },
+    {
+        "path": "/media/website/responsive/Logo-xl.jpg",
+        "type": "file",
+        "md5": "84e8857a4b176549a6a2397f77f76f8d"
+    },
+    {
+        "path": "/media/website/responsive/Logo-xs.jpg",
+        "type": "file",
+        "md5": "84e8857a4b176549a6a2397f77f76f8d"
+    },
+    {
+        "path": "post-2.html",
+        "type": "file",
+        "md5": "b5eacfa0b7a3aa212b660de87bbc73bf"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "ef54010ca2b330c4a2dd1d660ade9aff"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "9eac457f4fc909b146df0924e61bd30b"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "37167e2d0ea17798b134e64daabbb8ab"
+    },
+    {
+        "path": "tags/sample-chapters",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/sample-chapters/index.html",
+        "type": "file",
+        "md5": "567c25515f47aed2fd41950b9bb733a7"
+    }
+]
